@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="options.css">
+  <title>Tailwind CSS Lookup — Settings</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Tailwind CSS Lookup Settings</h1>
+
+    <div class="setting-group">
+      <label class="setting">
+        <input type="checkbox" id="enabled" checked>
+        <span>Enable extension</span>
+      </label>
+      <p class="setting-desc">When disabled, the extension won't inject any scripts into pages.</p>
+    </div>
+
+    <div class="actions">
+      <button id="save" class="btn btn-primary">Save</button>
+      <span id="status" class="status"></span>
+    </div>
+
+    <div class="about">
+      <h2>About</h2>
+      <p>Tailwind CSS Lookup lets you inspect any element's Tailwind classes and look up what CSS they generate.</p>
+      <ul>
+        <li>Hover over elements to see their Tailwind classes</li>
+        <li>Search for any Tailwind class to see its CSS</li>
+        <li>Click to copy classes to clipboard</li>
+        <li>See a summary of all Tailwind classes used on a page</li>
+      </ul>
+
+      <h2>Keyboard Shortcuts</h2>
+      <ul>
+        <li><strong>Esc</strong> — Exit inspect mode</li>
+        <li><strong>Click</strong> — Copy element's Tailwind classes</li>
+      </ul>
+    </div>
+  </div>
+  <script src="options.js"></script>
+</body>
+</html>
