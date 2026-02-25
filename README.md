@@ -11,15 +11,20 @@ Inspect Tailwind CSS classes on any element in your browser. Look up any class t
 
 ## Installation
 
-### From Chrome Web Store (coming soon)
-1. Install from the Chrome Web Store
-2. Click the extension icon to open the popup
-3. Use "Inspect Element" to hover over elements, or search for classes directly
+### From Chrome Web Store
+*Coming soon*
 
-### Local Development
-1. Open `chrome://extensions/`
-2. Enable "Developer mode"
-3. Click "Load unpacked" and select this directory
+### From GitHub Release
+1. Download the latest `tailwind-lookup.zip` from [Releases](https://github.com/kendocode/tailwind-lookup/releases)
+2. Unzip into a folder
+3. Open `chrome://extensions/` and enable "Developer mode"
+4. Click "Load unpacked" and select the unzipped folder
+5. Click the extension icon to inspect elements or search for classes
+
+### From Source
+1. Clone this repo
+2. Open `chrome://extensions/` and enable "Developer mode"
+3. Click "Load unpacked" and select the repo directory
 4. Visit any page using Tailwind CSS (e.g., tailwindcss.com)
 
 ## Testing
@@ -37,10 +42,10 @@ node tests/test-core.mjs
 
 ## Store Listing Copy
 
-### Title (max 45 chars)
+### Title
 Tailwind CSS Lookup
 
-### Short Description (max 132 chars)
+### Short Description
 Inspect Tailwind classes on any element. Look up any class to see its CSS. Reverse lookup CSS to Tailwind.
 
 ### Detailed Description
