@@ -29,3 +29,4 @@ node tests/test-core.mjs
 - Manifest V3, no external dependencies
 - Version: semver starting at 0.x (1.x = production-ready)
 - Privacy policy must be kept current with any permission changes
+- Do NOT add Claude/AI as co-author or contributor in commits, PRs, or code
