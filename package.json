@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-lookup",
+  "description": "Inspect Tailwind classes on any element. Look up any class to see its CSS. Reverse lookup CSS to Tailwind.",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt --browser firefox",
+    "build": "wxt build",
+    "build:firefox": "wxt build --browser firefox",
+    "zip": "wxt zip",
+    "zip:firefox": "wxt zip --browser firefox",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "wxt": "^0.20.0",
+    "typescript": "^5.8.0",
+    "vitest": "^3.1.0"
+  }
+}

@@ -1,3 +1,10 @@
+# WXT
+.output/
+.wxt/
+
+# Dependencies
+node_modules/
+
 # OS
 .DS_Store
 Thumbs.db
@@ -8,9 +15,6 @@ Thumbs.db
 *~
 .vscode/
 .idea/
-
-# Node (testing tools)
-node_modules/
 
 # Build artifacts
 *.zip
