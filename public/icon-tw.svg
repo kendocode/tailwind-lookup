@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Teal rounded square background -->
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="#0EA5E9"/>
+
+  <!-- Magnifying glass ring (filled donut) -->
+  <path d="M52,20 A32,32 0 1,1 51.99,20 Z M52,28 A24,24 0 1,0 52.01,28 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+
+  <!-- Glass interior (darker teal) -->
+  <circle cx="52" cy="52" r="24" fill="#0284C7"/>
+
+  <!-- Wind swoosh waves inside glass (Tailwind motif) -->
+  <path d="M36,44 Q42,36 50,44 Q56,36 64,44 L64,49 Q56,41 50,49 Q42,41 36,49 Z" fill="#FFFFFF"/>
+  <path d="M40,55 Q45,48 52,55 Q57,48 62,55 L62,59 Q57,52 52,59 Q45,52 40,59 Z" fill="#FFFFFF"/>
+
+  <!-- Handle (thick diagonal bar) -->
+  <rect x="72" y="78" width="12" height="28" rx="6" fill="#FFFFFF" transform="rotate(-45 78 92)"/>
+</svg>
