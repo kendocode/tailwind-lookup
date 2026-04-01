@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "Periksa kelas Tailwind CSS di halaman mana pun. Arahkan kursor untuk mendeteksi, cari di seluruh database, dan salin sekali klik. Tanpa pelacakan."
+  }
+}

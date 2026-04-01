@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "在任何頁面檢查 Tailwind CSS 類別。懸停即可偵測，搜尋完整資料庫，一鍵複製。無任何追蹤。"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "ตรวจสอบคลาส Tailwind CSS บนทุกหน้า วางเมาส์เพื่อตรวจจับ ค้นหาฐานข้อมูลทั้งหมด และคัดลอกด้วยคลิกเดียว ไม่มีการติดตาม"
+  }
+}

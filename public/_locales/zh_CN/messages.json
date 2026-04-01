@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "在任意页面检查 Tailwind CSS 类名。悬停即可检测，搜索完整数据库，一键复制。无任何追踪。"
+  }
+}

@@ -2,7 +2,9 @@ import { defineConfig } from 'wxt';
 
 export default defineConfig({
   manifest: {
-    name: 'Tailwind CSS Lookup',
+    name: '__MSG_appName__',
+    description: '__MSG_appDescription__',
+    default_locale: 'en',
     permissions: ['storage', 'activeTab'],
     web_accessible_resources: [
       {

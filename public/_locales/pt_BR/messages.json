@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "Inspecione classes Tailwind CSS em qualquer página. Passe o mouse para detectar, pesquise no banco de dados completo e copie com um clique. Sem rastreamento."
+  }
+}

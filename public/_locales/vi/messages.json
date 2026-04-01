@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Tailwind CSS Lookup"
+  },
+  "appDescription": {
+    "message": "Kiểm tra các lớp Tailwind CSS trên mọi trang. Di chuột để phát hiện, tìm kiếm toàn bộ cơ sở dữ liệu và sao chép chỉ với một nhấp chuột. Không theo dõi."
+  }
+}
