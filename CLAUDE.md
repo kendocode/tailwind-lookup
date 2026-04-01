@@ -44,5 +44,5 @@ npm test
 
 ## Conventions
 - WXT framework with vanilla TypeScript (no UI framework)
-- Version: semver, 0.2.x (WXT rewrite)
+- Version: semver, 0.3.x (CWS-submitted)
 - Do NOT add Claude/AI as co-author or contributor
